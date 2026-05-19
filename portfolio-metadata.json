@@ -1,0 +1,14 @@
+{
+  "repo": "smart-agriculture-ml-suite",
+  "title": "Smart Agriculture ML Suite",
+  "category": "Agriculture-AI-Projects",
+  "description": "A graduation-project notebook suite for crop recommendation, crop yield prediction, soil nutrient analysis, XAI, and plant disease classification.",
+  "topics": [
+    "agriculture",
+    "machine-learning",
+    "deep-learning",
+    "computer-vision",
+    "xai",
+    "crop-recommendation"
+  ]
+}

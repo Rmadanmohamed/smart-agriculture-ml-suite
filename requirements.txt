@@ -1,0 +1,13 @@
+keras
+lightgbm
+matplotlib
+numpy
+opencv-python
+pandas
+plotly
+scikit-learn
+seaborn
+tensorflow
+torch
+torchvision
+xgboost
