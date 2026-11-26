@@ -70,3 +70,9 @@ No standalone screenshots or verified live demo were found. Generate charts and 
 **Ramadan Mohamed Hassan** — AI Engineer | AI Researcher | AI Automation | LLM & RAG Systems | Machine Learning
 
 [Portfolio](https://ramadan-ai-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-89085a366/) · [GitHub](https://github.com/Rmadanmohamed) · [Email](mailto:ramadanmohameddd3@gmail.com)
+
+## Remediation validation
+
+Corrects undefined scaler and eliminates fitting on test data in the crop-yield notebook. Other agricultural experiments need their original datasets and further leakage review.
+
+Run the scoped synthetic check with `python tests/regression.py` after installing its CI dependencies. Prior notebook outputs were cleared because they predate the correction.
